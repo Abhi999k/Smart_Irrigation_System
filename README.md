@@ -5,8 +5,7 @@ This repository contains my work and assignments completed during the 4-week int
 ## Overview
 
 - **Duration**: 4 Weeks
-- **Type**: Data Science Internship
-- **Platform**: Edunet
+- **Platform**: Edunet foundation with IBM
 
 ## Weekly Progress
 
@@ -28,10 +27,7 @@ This repository contains my work and assignments completed during the 4-week int
 ## Repository Structure
 
 ```
-├── week1/
-│   ├── Irrigation_System.ipynb
-│   ├── irrigation_machine.csv
-│   └── README.md
+├── week1/ 
 ├── week2/
 ├── week3/
 └── week4/
