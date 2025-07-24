@@ -1,4 +1,4 @@
-# Irrigation System Analysis Project
+# Irrigation System Analysis Project - week1
 
 This project analyzes sensor data from irrigation machines and predicts irrigation needs for different parcels using machine learning.
 
